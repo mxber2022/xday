@@ -1,4 +1,4 @@
-# The Intelligent IDE Documentation Generator
+# AIDoc: The Intelligent IDE Documentation Generator
 
 ## Table of Contents
 
